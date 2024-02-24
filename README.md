@@ -1,4 +1,4 @@
 # c-program-s
 all basic program.
-<br>
+\n
 Author-Jayesh zambare
